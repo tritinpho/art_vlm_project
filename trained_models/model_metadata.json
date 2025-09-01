@@ -1,0 +1,15 @@
+{
+  "artists": [
+    "Rembrandt van Rijn",
+    "Pablo Picasso",
+    "Vincent van Gogh",
+    "Edvard Munch",
+    "Leonardo da Vinci",
+    "Johannes Vermeer",
+    "Sandro Botticelli",
+    "Salvador Dal\u00ed"
+  ],
+  "training_date": "2025-08-31T17:43:13.488079",
+  "model_type": "ArtVLM",
+  "version": "1.0"
+}
